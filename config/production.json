@@ -1,6 +1,6 @@
 {
-  "mongoURI": "",
-  "jwtSecret": "",
-  "githubClientId": "",
-  "githubSecret": ""
+  "mongoURI": "mongodb+srv://prakhar:prakhar123@devconnector.ibxm0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "psjwttokensecret",
+  "githubClientId": "2101d4e754172f9db1ab",
+  "githubSecret": "b512b6b6a22fccc81aee030458848564885bb968"
 }
